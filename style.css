@@ -1,0 +1,146 @@
+.i1 {
+    color: rgb(122, 122, 122);
+}
+
+.i1a {
+    color: rgb(122, 122, 122);
+    text-align: right;
+
+}
+
+.i2 {
+    color: white;
+    text-align: center;
+}
+
+.i2a {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.i3 {
+    color: black;
+}
+
+.i3a {
+    color: black;
+    text-align: right;
+    padding-left: 55px;
+}
+
+.i3b {
+    color: black;
+    text-align: right;
+    padding-left: 70px;
+}
+
+
+.i4 {
+    width: 290px;
+    height: 375px;
+    border: 2px solid rgb(92, 0, 220);
+    border-radius: 20px;
+    overflow: auto;
+    margin-left: 450px;
+    margin-top: 220px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(92, 0, 220);
+    text-align: center;
+}
+
+.i5 {
+    width: 105px;
+    height: 100px;
+    border: 2px solid rgb(75, 1, 179);
+    border-radius: 250px;
+    margin-left: 95px;
+    background-color: rgb(75, 1, 179);
+}
+
+.i6 {
+    width: 290px;
+    height: 375px;
+    border: 2px solid white;
+    border-radius: 20px;
+    overflow: visible;
+    padding-top: 10px;
+    text-align: left;
+    margin-top: 220px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+
+.i7 {
+    width: 200px;
+    height: 30px;
+    border: 2px solid rgb(253, 193, 193);
+    background-color: rgb(253, 193, 193);
+    color: rgba(161, 1, 1, 0.81);
+    border-radius: 15px;
+    overflow: visible;
+    margin-left: 85px;
+    margin-right: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.i8 {
+    width: 200px;
+    height: 30px;
+    border: 2px solid rgb(250, 249, 188);
+    background-color: rgb(250, 249, 188);
+    color: rgb(163, 160, 0);
+    border-radius: 15px;
+    overflow: visible;
+    margin-left: 85px;
+    margin-right: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.i9 {
+    width: 200px;
+    height: 30px;
+    border: 2px solid rgb(192, 251, 194);
+    background-color: rgb(192, 251, 194);
+    color: rgb(23, 171, 0);
+    border-radius: 15px;
+    overflow: visible;
+    margin-left: 85px;
+    margin-right: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.i10 {
+    width: 200px;
+    height: 30px;
+    border: 2px solid rgb(180, 180, 252);
+    background-color: rgb(180, 180, 252);
+    color: rgb(2, 2, 196);
+    border-radius: 15px;
+    overflow: visible;
+    margin-left: 85px;
+    margin-right: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.i11 {
+    width: 200px;
+    height: 30px;
+    border: 2px solid rgba(46, 44, 44, 0);
+    background-color: rgb(31, 30, 30);
+    color: rgb(252, 252, 252);
+    border-radius: 15px;
+    overflow: visible;
+    margin-left: 85px;
+    margin-right: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+}
